@@ -5,7 +5,7 @@
 🚀 Passionate about Web Development, Problem Solving, and exploring different tech fields  
 🌱 Attended programming & problem-solving bootcamps (Root Academy, IEEE)  
 📌 Looking for summer internships and real-world projects to grow and learn  
-📫 Reach me at: sama.yourmail@gmail.com
+📫 Reach me at:alisama323@gmail.com
 
 ---
 
