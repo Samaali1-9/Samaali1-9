@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hello, I'm Sama!
 
-<!--
-**Samaali1-9/Samaali1-9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Science student at Helwan National University (HNU)  
+💻 Currently learning C++, OOP, Data Structures & Algorithms  
+🚀 Passionate about Web Development, Problem Solving, and exploring different tech fields  
+🌱 Attended programming & problem-solving bootcamps (Root Academy, IEEE)  
+📌 Looking for summer internships and real-world projects to grow and learn  
+📫 Reach me at: sama.yourmail@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tools & Technologies:
+- C++ / OOP
+- Git & GitHub
+- HTML / CSS (Basics)
+- SQL (Intro)
+- Agile (Basic Concepts)
+
+---
+
+### 📈 Goals:
+- Practice on real projects and build my GitHub portfolio
+- Learn Frontend (React) and Backend basics
+- Join student activities and tech communities
+
+---
+
+> 💡 “The expert in anything was once a beginner.”
